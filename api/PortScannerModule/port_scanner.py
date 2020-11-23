@@ -2,7 +2,6 @@
 
 import socket
 import common_ports
-import ipaddress
 
 def isIPAddress(target):
     for each in target:
